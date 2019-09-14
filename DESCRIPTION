@@ -11,3 +11,5 @@ License: MIT + file LICENSE
 ByteCompile: true
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/cara-hirst-13/myprojname
+BugReports: https://github.com/cara-hirst-13/myprojname/issues
